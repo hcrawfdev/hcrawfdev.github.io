@@ -4,7 +4,6 @@ date: 2022-08-02
 tags: ["AI", "Society",]
 categories: ["Technology"]
 weight: 50
-draft: true
 ---
 
 In it's history, computing has gone through a cycle of consolidation. It's been described before as a "Mainframe -> Personal Computer -> Mainframe" loop. Compute was originally in the hands of IBM, followed by a (still somewhat enjoyed) period of personal computer sovereignty, to today's landscape of AWS and Azure data mega-warehouses accessed by low powered chromebooks. This seems to be due to
