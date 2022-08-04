@@ -1,2 +1,5 @@
 # hcrawfdev.github.io
-# yep
+
+My personal website. Redirects here from harrisoncrawford.net and harrisoncrawford.dev.
+
+Built with Hugo, using the Even theme.
